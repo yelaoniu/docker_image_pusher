@@ -1,1 +1,1 @@
-lobe-chat
+lobehub/lobe-chat
