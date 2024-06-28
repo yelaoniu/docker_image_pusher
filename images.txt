@@ -1,1 +1,2 @@
-lobehub/lobe-chat
+haroldli/xiaoya-tvbox
+idootop/mi-gpt
