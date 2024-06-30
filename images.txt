@@ -1,3 +1,4 @@
 haroldli/xiaoya-tvbox
 idootop/mi-gpt
 lobehub/lobe-chat
+radrootllc/karaoke-eternal
