@@ -1,4 +1,4 @@
 haroldli/xiaoya-tvbox
 idootop/mi-gpt
 lobehub/lobe-chat
-panjjo/zlmediakit
+whyour/qinglong:2.11.3
