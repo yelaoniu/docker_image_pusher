@@ -2,3 +2,4 @@ haroldli/xiaoya-tvbox
 idootop/mi-gpt
 lobehub/lobe-chat
 whyour/qinglong:2.11.3
+1Panel-dev/MaxKB
