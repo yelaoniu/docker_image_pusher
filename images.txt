@@ -1,3 +1,4 @@
 haroldli/xiaoya-tvbox
 lobehub/lobe-chat
 cr2.fit2cloud.com/1panel/maxkb
+idootop/mi-gpt
