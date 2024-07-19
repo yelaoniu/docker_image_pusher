@@ -5,3 +5,4 @@ idootop/mi-gpt
 matrixdotorg/synapse
 vectorim/element-web
 neosmemo/memos:stable
+hslr/sun-panel
