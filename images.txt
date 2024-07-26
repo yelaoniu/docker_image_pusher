@@ -6,4 +6,4 @@ matrixdotorg/synapse
 vectorim/element-web
 neosmemo/memos:stable
 hslr/sun-panel
-linkstackorg/linkstack
+linkstackorg/linkstack:latest
