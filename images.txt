@@ -7,4 +7,3 @@ vectorim/element-web
 neosmemo/memos:stable
 hslr/sun-panel
 ghcr.io/linkstackorg/linkstack
-adminer
