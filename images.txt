@@ -8,3 +8,4 @@ neosmemo/memos:stable
 hslr/sun-panel
 ghcr.io/linkstackorg/linkstack
 lscr.io/linuxserver/jackett
+youshandefeiyang/allinone
