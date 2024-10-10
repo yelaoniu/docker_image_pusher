@@ -10,4 +10,4 @@ ghcr.io/linkstackorg/linkstack
 lscr.io/linuxserver/jackett
 youshandefeiyang/allinone
 ghcr.io/candiddev/homechart
-docker.io/postgres
+docker.io/postgres:16
