@@ -11,3 +11,4 @@ lscr.io/linuxserver/jackett
 youshandefeiyang/allinone
 ghcr.io/candiddev/homechart
 docker.io/postgres:16
+rehiy/dailyhot
