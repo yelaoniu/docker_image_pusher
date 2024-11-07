@@ -13,4 +13,3 @@ ghcr.io/candiddev/homechart
 docker.io/postgres:16
 rehiy/dailyhot
 xhofe/alist
-zfile/zfile
