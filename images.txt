@@ -14,3 +14,4 @@ docker.io/postgres:16
 rehiy/dailyhot
 xhofe/alist
 herberthe0229/iptv-sources
+youshandefeiyang/allinone
