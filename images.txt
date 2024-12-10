@@ -16,3 +16,4 @@ xhofe/alist
 herberthe0229/iptv-sources
 youshandefeiyang/allinone
 yuexuangu/allinone_format
+unilei/aipan-netdisk-search
