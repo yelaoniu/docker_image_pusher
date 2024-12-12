@@ -7,8 +7,6 @@ vectorim/element-web
 neosmemo/memos:stable
 hslr/sun-panel
 ghcr.io/linkstackorg/linkstack
-lscr.io/linuxserver/jackett
-youshandefeiyang/allinone
 ghcr.io/candiddev/homechart
 docker.io/postgres:16
 rehiy/dailyhot
@@ -17,3 +15,4 @@ herberthe0229/iptv-sources
 youshandefeiyang/allinone
 yuexuangu/allinone_format
 unilei/aipan-netdisk-search:amd64
+foamzou/melody
