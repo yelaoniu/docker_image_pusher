@@ -17,3 +17,4 @@ yuexuangu/allinone_format
 unilei/aipan-netdisk-search:amd64
 foamzou/melody
 xhongc/music_tag_web
+guovern/iptv-api:latest
