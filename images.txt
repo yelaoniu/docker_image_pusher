@@ -19,7 +19,3 @@ foamzou/melody
 xjxjin/alist-sync
 guovern/iptv-api:latest
 photoprism/photoprism
-ghcr.io/monlor/xiaoya-alist
-ghcr.io/monlor/xiaoya-metadata
-ghcr.io/monlor/xiaoya-embyserver
-ghcr.io/monlor/xiaoya-jellyfin
