@@ -19,3 +19,4 @@ foamzou/melody
 xjxjin/alist-sync
 guovern/iptv-api:latest
 photoprism/photoprism
+postgres:15
