@@ -8,7 +8,6 @@ neosmemo/memos:stable
 hslr/sun-panel
 ghcr.io/linkstackorg/linkstack
 ghcr.io/candiddev/homechart
-docker.io/postgres:16
 rehiy/dailyhot
 xhofe/alist
 herberthe0229/iptv-sources
