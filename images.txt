@@ -18,4 +18,3 @@ foamzou/melody
 xjxjin/alist-sync
 guovern/iptv-api:latest
 photoprism/photoprism
-docker.io/postgres:15
