@@ -15,6 +15,4 @@ youshandefeiyang/allinone
 yuexuangu/allinone_format
 unilei/aipan-netdisk-search:amd64
 foamzou/melody
-xjxjin/alist-sync
-guovern/iptv-api:latest
-photoprism/photoprism
+guovern/iptv-api:lite
