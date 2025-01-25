@@ -12,7 +12,5 @@ rehiy/dailyhot
 xhofe/alist
 herberthe0229/iptv-sources
 youshandefeiyang/allinone
-yuexuangu/allinone_format
 unilei/aipan-netdisk-search:amd64
-foamzou/melody
 guovern/iptv-api:lite
