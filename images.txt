@@ -1,6 +1,6 @@
 haroldli/xiaoya-tvbox
 lobehub/lobe-chat
-cr2.fit2cloud.com/1panel/maxkb
+neosmemo/memos:stable
 idootop/mi-gpt
 matrixdotorg/synapse
 vectorim/element-web
@@ -10,7 +10,4 @@ ghcr.io/linkstackorg/linkstack
 ghcr.io/candiddev/homechart
 rehiy/dailyhot
 xhofe/alist
-herberthe0229/iptv-sources
 youshandefeiyang/allinone
-unilei/aipan-netdisk-search:amd64
-guovern/iptv-api:lite
