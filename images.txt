@@ -11,3 +11,4 @@ ghcr.io/candiddev/homechart
 rehiy/dailyhot
 xhofe/alist
 youshandefeiyang/allinone
+johnzdq/doube-itv
